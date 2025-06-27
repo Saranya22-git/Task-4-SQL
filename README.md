@@ -93,7 +93,10 @@ HAVING condition;
     GROUP BY total_marks_obtained
     HAVING COUNT(computer)>1;
 
+# ⛏️Tools
+🔹 MySQL Workbench
 
+# **Happy Learning! 🎓**
 
 
 
